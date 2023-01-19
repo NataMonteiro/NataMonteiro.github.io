@@ -36,7 +36,7 @@
         </style>
         </head>                                           
    <body>
-        <sender-column>
+        <.sender-column calss="text-align">
            <strong> Dr. Eleanor Gaye</strong><br>
            Dr. Eleanor Gaye<br>
            Awesome Science faculty<br>
