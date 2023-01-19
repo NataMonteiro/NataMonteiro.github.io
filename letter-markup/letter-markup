@@ -38,7 +38,6 @@
    <body>
         <address class=".sender column">
            <strong> Dr. Eleanor Gaye</strong><br>
-           Dr. Eleanor Gaye<br>
            Awesome Science faculty<br>
            University of Awesome<br>
            Bobtown, CA 99999,<br>
@@ -47,5 +46,8 @@
            <strong>Email</strong>: no reply@example.com
         </adress>
         
+      <address class=".sender column">
         <p class="sender-column><time datetime="20 January 2016"
+      </adress>
+        
         
