@@ -44,7 +44,7 @@
            USA<br>
            <strong>Tel</strong>:123-456-7890<br>
            <strong>Email</strong>: no reply@example.com
-        </adress>
+        </address>
         
         <p class="sender column"><time datetime="2016-01-20"</time></p>
         
