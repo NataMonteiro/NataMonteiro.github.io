@@ -124,12 +124,26 @@ p {
 
 /* Image & Figure */
 
-img {}
-figure {}
-figcaption {}
+img {
+    width: 100%;
+    margin:0 auto;
+    max-width:50rem;
+}
+figure {
+    margin-bottom:2rem;
+}
+figcaption {
+    padding-top:0.5rem;
+    text-align: right;
+
+}
 
 
 /* Footer */
 
-footer {}
+footer {
+    padding: 1rem;
+    border-top: 2rem solid #333;
+
+}
 
