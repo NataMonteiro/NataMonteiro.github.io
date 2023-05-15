@@ -34,7 +34,7 @@ body {
 }
 main {
     background-color:#ddd;
-    background-image:url(images/wrinkled-white-paper-background.jpg);
+    background-image:url(/images/wrinkled-white-paper-background.jpg);
     background-size:cover;
     background-repeat: no-repeat;
     border:1px solid #333;
@@ -112,13 +112,13 @@ h5 {
 /* Section & Paragraph */
 
 section {
-    margin-top:0.5rem;
+    margin-top: 0.5rem;
 }
 p {
-    margin:1rem auto;
-    padding:0 1rem;
-    width:90%;
-    text-align:left;
+    margin: 1rem auto;
+    padding: 0 1rem;
+    width: 90%;
+    text-align: left;
 
 }
 
@@ -126,8 +126,8 @@ p {
 
 img {
     width: 100%;
-    margin:0 auto;
-    max-width:50rem;
+    margin: 0 auto;
+    max-width: 50rem;
 }
 figure {
     margin-bottom:2rem;
@@ -138,6 +138,10 @@ figcaption {
 
 }
 
+h4>span{
+    
+   padding: 0 0.5rem;
+}
 
 /* Footer */
 
