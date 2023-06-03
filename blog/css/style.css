@@ -205,7 +205,18 @@ nav a {
         color: #B2BF50;
 }
 
-nav{
+nav {
        border-top: 1px solid #B2BF50;
        border-bottom: 1px solid #B2BF50;
 }
+
+nav a:focus, nav a:hover {
+    color: #fff;
+    background: #33658A;
+}
+
+nav a:active {
+    color: #fff;
+    background: #000;
+}
+
