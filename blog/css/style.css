@@ -59,19 +59,32 @@
 
 @font-face {
         font-family:'roboto';
-        src: url('../fonts/sans-serif/roboto-regular.ttf') format ('try');
+        src: url('../fonts/sans-serif/roboto-regular.ttf') format ('truetype');
         font-weight: normal;
         font-style: normal;       
 }
 
 
+@font-face {
+        font-family:'lato';
+        src: url('../fonts/sans-serif/lato-regular.ttf') format ('truetype');
+        font-weight: normal;
+        font-style: normal;       
+}
 /* typography */        
           
+p {
+    font-family: roboto;   
+}
 
+h1, h2, h3,h4 {
+        font-family: lato;
+}
 
-
-
-
+.highlight {
+        font-family: ultra;
+}
+        
 
 
 
