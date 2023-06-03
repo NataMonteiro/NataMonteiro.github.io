@@ -130,3 +130,6 @@ figure {
         margin-right: 1rem;
 }
 
+.subsection figure {
+        margin: 0rem 0.25rem;
+}
