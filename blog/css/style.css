@@ -127,4 +127,6 @@ figure {
 .article-image {
         width: 33%;
         float: left;
+        margin-right: 1rem;
 }
+
