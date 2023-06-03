@@ -64,6 +64,7 @@
         font-style: normal;       
 }
 
+
 /* typography */        
           
 
@@ -81,7 +82,7 @@
 }
 
 html {
-    font-size:22px;
+    font-size:16px;
 }
 
 body {
@@ -91,9 +92,8 @@ body {
 }
 
 
-
-
-
-
 /* layoutyyyyyyyyy */
 
+.subsection {
+        display: flex;
+}
