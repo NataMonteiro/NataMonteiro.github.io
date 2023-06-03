@@ -74,11 +74,18 @@
 /* typography */        
           
 p {
-    font-family: roboto, Arial, sans-serif;   
+    font-family: roboto, Arial, sans-serif; 
+    letter-spacing: 0.0325rem;
 }
 
 h1, h2, h3,h4 {
         font-family: lato, Helvetica, sans-serif;
+        letter-spacing: 0.0325rem;
+}
+
+h1 {
+        font-size: 3rem;
+        letter-spacing: 0.0325rem;
 }
 
 .highlight {
