@@ -94,6 +94,13 @@ body {
 
 /* layoutyyyyyyyyy */
 
+.main-section {
+        dispau: grid;
+        grid-template-columns: 4fr 1fr;
+        grid-gap: 1rem;
+
+}
+
 .subsection {
         display: flex;
 }
