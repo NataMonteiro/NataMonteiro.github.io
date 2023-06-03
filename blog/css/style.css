@@ -76,7 +76,19 @@
 
 /* general set upyyyyyyy */
 
+* {
+    box-sizing: border-box;
+}
 
+html {
+    font-size:22px;
+}
+
+body {
+    margin: 1.5rem auto;
+    width:90%;
+    min-width:56.25rem;
+}
 
 
 
