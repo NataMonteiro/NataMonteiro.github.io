@@ -151,6 +151,13 @@ aside {
         padding-left: 0.75rem;
 }
 
+aside p {
+        border-bottom: 1px solid #B2BF50;
+        padding-bottom: 0.5rem;
+}
+
+
+
 .subsection {
         display: flex;
 }
@@ -182,4 +189,23 @@ figure {
 
 .subsection figure figcaption {
         padding: 0.5rem 0.5rem;
+}
+
+/*  link and navvvvvv */
+
+a {
+     text-decoration: none;   
+}
+
+nav a {
+        display: inline-block;
+        padding: 1.25rem 2rem;
+        font-size: 1.5;
+        font-family: lato, Arial, sans-serif;
+        color: #B2BF50;
+}
+
+nav{
+       border-top: 1px solid #B2BF50;
+       border-bottom: 1px solid #B2BF50;
 }
