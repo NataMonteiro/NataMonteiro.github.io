@@ -49,3 +49,21 @@
 /* ------ START WRITING YOUR CODE BELOW ------ */
 
 
+
+@font-face {
+  font-family: "ultra";
+  src: url('../fonts/serif/ultraregular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+        font-family:'roboto';
+        src: url('../fonts/sans serif/roboto-regular.ttf') format ('try');
+        font-weight: normal;
+        font-style: normal;       
+}
+
+        
+          
+
